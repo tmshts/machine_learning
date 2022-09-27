@@ -4,7 +4,7 @@ As a part of a course Machine Learning at the Università della Svizzera italian
 
 
 <ol>
-  <li>. project was focused on linear and non-linear regression problem and their comparison.</li>
-  <li>. project was about Convolutional Neural Network, Feed Forward Neural Network and
+  <li>project was focused on linear and non-linear regression problem and their comparison.</li>
+  <li>project was about Convolutional Neural Network, Feed Forward Neural Network and
 their comparisson based on the accuracy measurement.</li>
 </ol>
