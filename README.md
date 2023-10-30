@@ -1,4 +1,4 @@
-# machine_learning
+# Machine Learning
 
 As a part of a course Machine Learning at the Università della Svizzera italiana (USI) in Lugano we could have delivered 2 projects voluntarily. Therefore, I delivered these projects based on the assignments.
 
